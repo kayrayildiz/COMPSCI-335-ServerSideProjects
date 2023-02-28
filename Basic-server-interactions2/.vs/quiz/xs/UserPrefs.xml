@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{06F817A5-65C0-4DD7-96FC-BE07941FF95D}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dtos/ItemInput.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Data/QuizRepo.cs" />
+      <File FileName="Data/IQuizRepo.cs" />
+      <File FileName="Controllers/QuizController.cs" />
+      <File FileName="Handler/QuizAuthHandler.cs" />
+      <File FileName="Dtos/ItemInput.cs" Line="17" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="quiz" expanded="True">
+            <Node name="quiz" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True">
+                <Node name="ItemInput.cs" selected="True" />
+              </Node>
+              <Node name="Handler" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Photos" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.quiz PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

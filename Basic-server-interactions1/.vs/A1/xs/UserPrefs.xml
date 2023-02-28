@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{45E1903C-0DEC-477D-B906-DE419F40ABCC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/A1Controller.cs">
+    <Files>
+      <File FileName="Program.cs" Line="12" Column="1" />
+      <File FileName="Controllers/A1Controller.cs" Line="104" Column="9" />
+      <File FileName="Data/A1DBContext.cs" Line="5" Column="30" />
+      <File FileName="Data/IA1Repo.cs" Line="17" Column="2" />
+      <File FileName="Data/A1Repo.cs" Line="5" Column="18" />
+      <File FileName="Dtos/CommentDto.cs" Line="12" Column="49" />
+      <File FileName="Models/Comment.cs" Line="17" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="A1" expanded="True">
+            <Node name="A1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Dtos" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.A1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
